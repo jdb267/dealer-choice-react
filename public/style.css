@@ -1,0 +1,14 @@
+.team {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  align-items: center;
+}
+
+body {
+  background-image: linear-gradient(
+    to right,
+    rgba(13, 0, 255, 0.331),
+    rgba(249, 9, 9, 0.468)
+  );
+}
